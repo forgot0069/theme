@@ -1,0 +1,22 @@
+/**
+* @name Rem Hot V2
+* @version 1.0
+* @description Created by 23lollo
+* @author 23lollo
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #1032C4F0;
+--themeColor2: #8F71E5FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/cYJX9H5.gif');
+--homeImageSize: cover;
+--backgroundColor: #5C48E5BF;
+--backgroundImage: url('https://i.imgur.com/SpCDx7M.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.82;
+}
