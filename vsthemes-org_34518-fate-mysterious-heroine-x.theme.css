@@ -15,7 +15,7 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --background-image: url('https://cdn.discordapp.com/attachments/972533899462836334/1111841492969996410/a_39a849fbf115704ba973e0d3a75f82ae.gif');
+  --background-image: url('https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
@@ -23,7 +23,7 @@
   --popout-modal-blur: 0px;
   --popout-modal-size: cover;
   --popout-modal-position: center;
-  --home-button-image: url('https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif');
+  --home-button-image: url('https://cdn.discordapp.com/attachments/972533899462836334/1111865353191039006/a_b709a4e7df7d608574dcfc50955aff82.gif');
   --home-button-size: cover;
   --home-button-position: top left;
   --serverlist-brightness: 0.4;
