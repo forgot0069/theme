@@ -13,10 +13,10 @@
 
 :root {
 
-  --theme-background-image: url(https://media.discordapp.net/attachments/972533899462836334/1112886652898131988/a_99fbd34bb05c1f6040d0b0582fc5eee0.gif?width=359&height=195);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/972533899462836334/1111841492969996410/a_39a849fbf115704ba973e0d3a75f82ae.gif);
   --main-theme-color: rgb(67, 181, 129);
   --theme-transparency: rgba(0, 0, 0, 0.6);
-  --home-icon-image: url(https://media.discordapp.net/attachments/972533899462836334/1112886652898131988/a_99fbd34bb05c1f6040d0b0582fc5eee0.gif?width=359&height=195);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/972533899462836334/1111841587287302174/a_58add4010003210ba69a1e4e57b86c0a.gif);
   --home-icon-image-position: center center;
   --home-icon-image-zoom: 100%;
   --server-listing-width: 126px;
